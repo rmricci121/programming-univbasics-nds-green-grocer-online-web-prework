@@ -7,7 +7,7 @@
 
 ## Introduction
 
-Over the last several lessons, we've explored nested data structures and how
+Over ithe last several lessons, we've explored nested data structures and how
 they can model complex real-world situations. Now we're going to take everything
 we've learned and use it to program a grocery store checkout process.
 
